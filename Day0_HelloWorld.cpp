@@ -1,3 +1,7 @@
+Question link:- https://www.hackerrank.com/challenges/30-hello-world/problem
+
+Solution:-
+
 #include "bits/stdc++.h"
 using namespace std;
 
