@@ -1,4 +1,5 @@
 /* Question Link:- https://www.hackerrank.com/challenges/30-data-types/problem */
+
 #include "bits\stdc++.h"
 using namespace std;
 
@@ -13,7 +14,6 @@ int main()
     double b;
     string str;
     // Read and save an integer, double, and String to your variables.
-    // Note: If you have trouble reading the entire string, please go back and review the Tutorial closely.
     cin >> a;
     cin >> b;
     getline(cin >> ws, str);
