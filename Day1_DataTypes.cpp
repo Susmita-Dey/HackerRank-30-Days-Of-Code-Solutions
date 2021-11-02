@@ -20,7 +20,7 @@ int main()
     // Print the sum of both integer variables on a new line.
     cout << i + a << endl;
     // Print the sum of the double variables on a new line.
-    cout << d + b << endl;
+    cout << fixed << setprecision(1) << d + b << endl;
     // Concatenate and print the String variables on a new line
     // The 's' variable above should be printed first.
     cout << s + str << endl;
